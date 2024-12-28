@@ -1,6 +1,6 @@
 # ICT133 - Structured Programming
 
-# ICT133 Structured Programming July Semester 2021 Tutor-Marked Assignment (TMA01)
+# ICT133 Tutor-Marked Assignment (TMA01) July Semester 2021
 
 **Topics:**
 
